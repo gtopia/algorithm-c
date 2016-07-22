@@ -1,7 +1,5 @@
 # algorithm-c
 
-[![Build Status](https://travis-ci.org/gtopia/algorithm-c.svg?branch=master)](https://travis-ci.org/gtopia/algorithm-c)
-
 ## Choice sort
 + choice
 + heap
